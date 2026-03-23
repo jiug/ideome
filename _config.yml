@@ -1,4 +1,4 @@
-theme: jekyll-theme-minimal
+remote_theme: pages-themes/minimal@v0.2.0
 title: Ideome
 description: A collection of thoughts, ideas, and the connections between them a.k.a. 'personal blog'.
 author: Hugo Beltrán de Heredia Llamazares (jiug)
