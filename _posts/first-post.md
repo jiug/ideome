@@ -3,7 +3,7 @@ layout: post
 title: "Initial Post"
 date: 2026-03-23 14:54:00 -0000
 categories: English Blog Thought
-published: false
+published: true
 
 ---
 
